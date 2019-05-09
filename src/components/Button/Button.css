@@ -1,0 +1,26 @@
+.Button {
+  width: 150px;
+  height: 150px;
+  border-radius: 50px;
+}
+
+.Start {
+  background-color: greenyellow;
+  color: black;
+  box-shadow: 2px 2px 2px #ccc;
+}
+
+.Reset {
+  background-color: red;
+  color: black;
+  box-shadow: 2px 2px 2px #ccc;
+}
+
+.Strict {
+  width: 50px;
+  height: 50px;
+  border-radius: 20px;
+  background-color: yellow;
+  color: black;
+  box-shadow: 1px 1px 1px #ccc;
+}
