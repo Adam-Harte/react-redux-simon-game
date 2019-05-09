@@ -1,0 +1,25 @@
+.Panel {
+  width: 50%;
+  height: 20%;
+  flex-basis: 100%;
+}
+
+.Red {
+  background-color: red;
+}
+
+.Blue {
+  background-color: blue;
+}
+
+.Yellow {
+  background-color: yellow;
+}
+
+.Green {
+  background-color: green;
+}
+
+.lightup {
+  opacity: 0.5;
+}
