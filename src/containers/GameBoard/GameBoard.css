@@ -1,0 +1,7 @@
+.GameBoard {
+  width: 500px;
+  height: 300px;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+}
